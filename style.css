@@ -1,0 +1,79 @@
+body {
+  font-family: Arial, sans-serif;
+  font-size: 40px;
+  background-color: #b94654;
+  color: white;
+  margin: 0;
+  padding: 20px;
+  border-style: solid;
+  border-width: 20px;
+  border-color: black;
+  
+}
+@font-face{font-family:cursive;
+  src:url("PunkTypewriter.otf")}
+
+p{font-family:cursive;
+  font-size: 92px;}
+img{
+  margin-left: 463px ;
+  margin-top: 30px;
+  align-items: center;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+
+
+header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+h1 {
+  
+  font-family: rootering;
+  font-size: 32px;
+  font-weight: bold;
+  color: #000000;
+  margin-bottom: 5px;
+}
+
+h2 {
+  font-family: 'Roboto', Arial, sans-serif;
+  font-size: 30px;
+  font-weight: bolder;
+  color: #e91616;
+  margin-top: 10;
+}
+
+section {
+  margin-bottom: 20px;
+}
+
+h3 {
+  font-family: 'Montserrat', Arial, sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  color: black;
+  margin-top: 0;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+p {
+  font-size: 23px;
+  line-height: 1.5;
+  text-align: center;
+  font-weight: bolder;
+  font-display: fallback;
+  text-shadow: 2px 2px red;
+}
+span{
+  color: hotpink;
+}
+
